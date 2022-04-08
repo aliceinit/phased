@@ -4,7 +4,7 @@ A python framework for testing and monitoring with multi-phase test steps
 ## Running in test mode
 In your project directory, run: `phased test`
 
-- All tests will execute each phase once, as requirements are met, and will stop running once the final phase has completed.
+All tests will execute each phase once, as requirements are met, and will stop running once the final phase has completed.
 
 ## Running multi-phase monitoring
 In your project directory, run: `phased monitor`
