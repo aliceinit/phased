@@ -1,5 +1,5 @@
 # phased
-A python framework for testing and monitoring with multi-phase test steps
+A python framework for reliable e2e-testing and monitoring of systems using multi-phase tests 
 
 ## Running in 'test' mode
 In your project directory, run: `phased test`
